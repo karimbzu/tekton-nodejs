@@ -1,3 +1,3 @@
 
-# Tekton Node.js OK
+# Tekton Node.js
 
